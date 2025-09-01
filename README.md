@@ -10,7 +10,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 </p>
-
+<hr>
+<hr>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fioranellii&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
 </p>
