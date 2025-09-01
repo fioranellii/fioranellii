@@ -12,6 +12,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fioranellii&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fioranellii&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
 </p>
