@@ -11,6 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
 </p>
+<hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fioranellii&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
 </p>
